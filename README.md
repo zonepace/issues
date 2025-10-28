@@ -1,9 +1,9 @@
-# ZonePace
+k# ZonePace
 
 A modern Android app for managing and tracking your interval training workouts with [Intervals.icu](https://intervals.icu).
 
 <div style="float: right; margin-left: 24px; margin-bottom: 12px;">
-  <img src="screenshot/workout-list.png" alt="ZonePace App Screenshot" width="300">
+  <img src="media/workout-list.png" alt="ZonePace App Screenshot" width="300">
 </div>
 
 > ℹ️ **Public issue tracker only**  
